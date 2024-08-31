@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_sapphire.mk
+    $(LOCAL_DIR)/fortune_sapphire.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_sapphire-user \
-    aosp_sapphire-userdebug \
-    aosp_sapphire-eng
+    fortune_sapphire-user \
+    fortune_sapphire-userdebug \
+    fortune_sapphire-eng
